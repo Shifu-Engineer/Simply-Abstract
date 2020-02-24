@@ -33,7 +33,7 @@ show_tags: true
 google_analytics:
 
 # Everything below here should be left alone. Modifications may break fastpages
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
   - jekyll-gist
